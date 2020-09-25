@@ -21,7 +21,7 @@ namespace Employee_wage
                 Console.WriteLine("Employee is Absent");
             }
             
-          Console.WriteLine("Iam in Some other branch");
+          Console.WriteLine("Iam in usecase1 branch");
         }
     }
 }
